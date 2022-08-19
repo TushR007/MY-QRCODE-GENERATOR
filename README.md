@@ -4,7 +4,7 @@ This project created by me was because of my curiosity of QR-Codes
 
 It is a simple static website created using HTML,Tailwind CSS and Vanilla Javascript.
 
-You can generate a QR-code by entering the URL of varying sizes from 10OX100 to 700X700.
+You can generate a QR-code by entering the URL of varying sizes from 100X100 to 700X700.
 
 A QR-Code is generated with the help of a Cross-browser QRCode generator for javascript:
  https://github.com/davidshimjs/qrcodejs

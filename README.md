@@ -1,6 +1,6 @@
 # MY-QRCODE-GENERATOR
 
-This project created by me was because of my curiosity of QR-Codes
+This project created by me, because of my curiosity of QR-Codes
 
 It is a simple static website created using HTML,Tailwind CSS and Vanilla Javascript.
 
